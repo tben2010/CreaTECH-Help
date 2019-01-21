@@ -38,7 +38,7 @@ func showCTHelp() {
 }
 ```
 
-The above will create 5 help cards + 2 defaults (link to web and support email)
+The above will create 3 help cards + 2 defaults (link to web and support email)
 
 ### Resources:
 
