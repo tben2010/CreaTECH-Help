@@ -58,7 +58,7 @@ class CTHelp {
             btn:.Web,
             webSite: webSite)
         let appContact = CTHelpItem(title: "Contact Developer",
-                                    helpText: "\(companyName) would very much like to assist you if you are having issues with \(Bundle.main.displayName). Please tap button below to initiate an email to the developer." + (data != nil ? "  If you agree, Your data will be compiled and sent to the developer for analysis." : ""),
+                                    helpText: "\(companyName) would very much like to assist you if you are having issues with \(Bundle.main.displayName). Please tap button below to initiate an email to the developer." + (data != nil ? "  If you agree, your data will be compiled and sent to the developer for analysis." : ""),
             imageName: "",
             btn:.Email,
             contactEmail:emailAddress,

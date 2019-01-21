@@ -48,4 +48,8 @@ The above will create 5 help cards + 2 defaults (link to web and support email)
 
 Installation and Configuration video (YouTube)
 
+https://www.youtube.com/watch?v=7Gh5uFJ5h1g
+
 Medium Blog
+
+[https://medium.com/@stewartlynch/adding-help-to-your-ios-app-7d53053fb563](https://medium.com/@stewartlynch/adding-help-to-your-ios-app-7d53053fb563)
